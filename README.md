@@ -1,6 +1,6 @@
 # fractals
 
-A collection of fractal-generating algorithms implemented in c++.
+A collection of fractal visualization and implemented in c++.
 
 ---
 
@@ -25,7 +25,7 @@ It includes various different forms of the curve:
 
 ### Installation
 
-### Ubuntu / Linux
+#### Ubuntu / Linux
 sudo apt update  
 sudo apt install freeglut3-dev libglfw3-dev
 
